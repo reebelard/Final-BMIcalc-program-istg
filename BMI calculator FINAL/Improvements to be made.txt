@@ -1,0 +1,4 @@
+In the synopsis, correct the following things:
+
+- Make the Condition blocks more bigger and font size bigger, and add an 'if' before the red condition blocks for 'update record' and 'view report' button
+- Add Program code and Program output after 'Program Flow'
