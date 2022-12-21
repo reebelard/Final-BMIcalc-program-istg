@@ -2,7 +2,7 @@
 
 The final creation of BMI calc, handmade to perfection.
 
-Thanks alot to Navneeth (SlyPredator on gh) for helping me with this project
+Thanks alot to my slyiest boi Navneeth (SlyPredator) for helping me with this project
 Check my boi out on gh:
 
 ###############################################################################
